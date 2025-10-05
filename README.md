@@ -1,4 +1,4 @@
-# Podcast-Desafio-DIO
+# Podcast-Desafio-DIO ( Bootcamp Universia - Fundamentos de IA Generativa )
 Este podcast foi criado para o projeto o bootcamp Universia - Fundamentos de IA Generativa 
 A seguir o texto gerado através do Copilot e o áudio transcrito pelo capcut.
 
