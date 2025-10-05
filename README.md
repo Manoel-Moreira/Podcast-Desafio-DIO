@@ -1,2 +1,12 @@
 # Podcast-Desafio-DIO
 Este podcast foi criado para o projeto o bootcamp Universia - Fundamentos de IA Generativa 
+A seguir o texto gerado através do Copilot:
+
+🎙️🎙️🎙️🎙️🎙️🎙️
+“Olá meus herdeiros! Está começando mais um episódio do O ser humano precisa ser estudado, o podcast que prova que as pessoas são um eterno episódio de comédia. E hoje, vamos falar sobre uma competição que você nunca imaginou que existia... o Campeonato Mundial de Arremesso de Meias Sujas! Sim, isso é real. E não, não é no Brasil — mas bem que poderia ser!”
+“Esse campeonato bizarro acontece na Inglaterra e reúne pessoas do mundo todo para competir em uma modalidade que ninguém pediu, mas todo mundo quer ver: quem joga a meia suja mais longe! A ideia surgiu em um pub, claro, onde dois amigos discutiam sobre quem tinha a pontaria mais precisa com uma meia fedida. E como tudo que começa num bar pode virar tradição... nasceu o campeonato!”
+“Você deve estar se perguntando: como funciona isso? Simples! Cada competidor escolhe uma meia usada — quanto mais fedida, mais respeito — e tenta arremessá-la o mais longe possível. Tem até juiz pra medir a distância e garantir que ninguém trapaceie com meias leves demais. E claro, tem categorias: meia curta, meia longa, meia de futebol... é quase uma Olimpíada do chulé!”
+“O atual campeão é um britânico que conseguiu arremessar uma meia a mais de 20 metros! Dizem que o segredo está na técnica de torção e no tipo de tecido. Tem gente que treina com meias molhadas, outras com meias de lã. E tem até quem use meias de criança pra tentar ganhar na leveza. É sério, tem estratégia nisso!”
+“Agora, imagina esse campeonato no Brasil... Já pensou? Arremesso de meia suada pós-jogo de futebol na várzea? Ou meia de trabalhador que passou o dia inteiro no sol? Ia ser uma competição de elite! E claro, com narração do Galvão: ‘Vai lançar a meia... é agora... é agora... olha o chulé!’”
+“Sabia que o cheiro da meia suja vem de bactérias que se alimentam do suor? E que existem pessoas que têm fetiche por isso? Pois é... o mundo é um lugar estranho. Mas aqui no podcast, a gente só quer rir mesmo!”
+“E aí, curtiu essa curiosidade? Já pensou em participar do Campeonato Mundial de Arremesso de Meias Sujas? Marca aquele amigo que tem a meia mais potente do grupo e compartilha esse episódio! Semana que vem tem mais histórias que provam que o brasileiro — e o mundo — precisam ser estudados. Valeu!”
